@@ -1,5 +1,4 @@
 llama-index-llms-cohere
 cohere
 llama-index
-llama-index-postprocessor
 llama-index-postprocessor-cohere-rerank
